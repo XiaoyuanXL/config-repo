@@ -9,4 +9,7 @@ spring:
   jpa:
     show-sql: true
 env:
-  test
+  test1
+girl:
+  name: 丽丽
+  age: 18
