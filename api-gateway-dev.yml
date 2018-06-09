@@ -12,6 +12,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:8761/eureka/
 zuul:
+  sensitive-headers:
   routes:
   # 简洁写法
 #    product: /myProduct/**
